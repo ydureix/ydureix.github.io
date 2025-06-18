@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  background-color: #262626; /* e.g., Tailwind’s slate-800 */
+  color: white;
+}
